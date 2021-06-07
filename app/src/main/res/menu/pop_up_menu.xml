@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/update"
+        android:title="Düzenle"></item>
+    <item android:id="@+id/delete"
+        android:title="Kişiyi Sil"></item>
+    <item android:id="@+id/details"
+        android:title="Detay"></item>
+    <item android:id="@+id/cancel"
+        android:title="İptal"></item>
+
+</menu>

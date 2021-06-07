@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/DenemeProjeler/ilkGitProjem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WebProjeleri/restourantPanel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter/Chat-Messaging-App-Light-and-Dark-Theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter/restourant_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter/todo_app" vcs="Git" />
+  </component>
+</project>
